@@ -1,5 +1,3 @@
-¡Hola! voy a dejar aqui la practica de la unidad 1 a modo de texto para facil acceso y el archivo correspondiente en su formato .py en caso de que quieran probarlo o modificarlo de forma directa. ¡Mucha suerte a todos! 
-
 # 1) Crear un programa que imprima por pantalla el mensaje: "Hola Mundo!"
 
 print("Hola Mundo!")
